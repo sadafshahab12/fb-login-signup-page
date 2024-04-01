@@ -1,0 +1,22 @@
+{
+  "name": "binteshahab12-facebook-login-and-signup-page",
+  "version": "1.0.0",
+  "description": "Create Facebook Login and Signup page",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Quiz"
+  ],
+  "author": "Sadaf Shahab",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
